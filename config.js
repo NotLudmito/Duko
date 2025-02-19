@@ -2,9 +2,9 @@
 
 module.exports = {
   TOKEN: "",
-  language: "en",
+  language: "es",
   ownerID: ["1004206704994566164", ""], 
-  mongodbUri : "",
+  mongodbUri : "mongodb+srv://duko:7WTiaxwZNpZS7vDc@duko.r741b.mongodb.net/?retryWrites=true&w=majority",
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
